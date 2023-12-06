@@ -10,15 +10,15 @@
 ### Key Components
 #### Data Retrieval:
 ##### Fetches JSON data from the CME website.
-####Data Conversion:
+#### Data Conversion:
 ##### Converts the acquired JSON data into a CSV format.
-####Azure Blob Storage:
-#####Uploads the CSV data to Azure Blob Storage for efficient and scalable storage.
-####Data Cleaning:
+#### Azure Blob Storage:
+##### Uploads the CSV data to Azure Blob Storage for efficient and scalable storage.
+#### Data Cleaning:
 ##### Removes columns with null values to ensure data integrity.
 ####Data Warehouse Integration:
 ##### Utilizes Google BigQuery as the data warehouse for persistent storage and streamlined retrieval.
-####Visualization:
+#### Visualization:
 ##### Leverages Pandas, NumPy, and Matplotlib for data visualization to derive meaningful insights.
 ### Technologies Used
 #### -Python
