@@ -16,7 +16,7 @@
 ##### Uploads the CSV data to Azure Blob Storage for efficient and scalable storage.
 #### Data Cleaning:
 ##### Removes columns with null values to ensure data integrity.
-####Data Warehouse Integration:
+#### Data Warehouse Integration:
 ##### Utilizes Google BigQuery as the data warehouse for persistent storage and streamlined retrieval.
 #### Visualization:
 ##### Leverages Pandas, NumPy, and Matplotlib for data visualization to derive meaningful insights.
