@@ -28,6 +28,11 @@
 #### -Azure Blob Storage
 #### -Google BigQuery
 
+**Data Dictionary**: Sheet 1 (Cleaned), Sheet 2 (Uncleaned)
+ https://docs.google.com/spreadsheets/d/1IdQ7iA6eHaSGUW5JOBv3bBK6NkYCvbhffg5YaxwN5Bs/edit?usp=sharing
+
+
+
 
 ## Conclusion
 ##### This project aims to establish a comprehensive data processing pipeline, ensuring seamless data retrieval, conversion, storage, and visualization. The combination of Azure Blob Storage and Google BigQuery facilitates a scalable and efficient workflow. The visualization tools enhance the project's analytical capabilities, allowing for a deeper understanding of the processed data.
