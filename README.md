@@ -31,7 +31,9 @@
 **Data Dictionary**: Sheet 1 (Cleaned), Sheet 2 (Uncleaned)
  https://docs.google.com/spreadsheets/d/1IdQ7iA6eHaSGUW5JOBv3bBK6NkYCvbhffg5YaxwN5Bs/edit?usp=sharing
 
+![Screenshot 2023-12-10 at 12 51 52 AM](https://github.com/TENPEL08/cmeDataEngineeringPipeline/assets/74534392/3caf55b5-940d-4112-80c8-22ed7ee97736)
 
+![Screenshot 2023-12-10 at 12 52 38 AM](https://github.com/TENPEL08/cmeDataEngineeringPipeline/assets/74534392/5ad7596e-ab90-455d-986d-ba8a31204860)
 
 
 ## Conclusion
